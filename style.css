@@ -1,0 +1,104 @@
+.main__table{
+   position: absolute;
+   left: 140px;
+   top: 0;
+}
+.other__table{
+    position: absolute;
+    top:18px
+}
+.other__table input{
+    
+}
+
+.search{
+
+}
+
+.search:before{
+    font-family: 'icomoon';
+    content: '\e900';
+}
+.colora{
+    background-color: white;
+    color: black;
+}
+
+
+.colorb{
+    background-color: red;
+    color: greenyellow;
+}
+
+.hide{
+    visibility: hidden;
+}
+
+.change-form{
+    position: relative;
+    top:-315px;
+    right:-75px;
+
+}
+
+.description{
+    position: relative;
+    top: 13px;
+}
+
+.category{
+    position: relative;
+    top: 22px;
+}
+
+.price{
+    position: relative;
+    top: 26;
+}
+
+.kol{
+    position: relative;
+    top: 30px;
+}
+
+.status{
+    position: relative;
+    top: 32;
+}
+
+textarea{
+    width: 173px;
+}
+
+.find-checkbox{
+    position: relative;
+    top:-147px;
+    left: 70px;
+}
+
+.find-table{
+    position: relative;
+    top:-330px;
+    left: 100px;
+}
+
+.generate{
+    position: relative;
+    top:-145px;
+}
+
+/* Style buttons */
+.btn {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 20px;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 8px;
+  }
+  
+  /* Darker background on mouse-over */
+  .btn:hover {
+    background-color: RoyalBlue;
+  }
